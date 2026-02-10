@@ -26,7 +26,7 @@ I love building clean and functional web applications and improving my skills ev
 ---
 
 ## 📊 GitHub Stats  
-![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalSaini0017&show_icons=true&theme=dark)
+![Kajal Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalsaini0017&show_icons=true&theme=dark)
 
 ---
 
