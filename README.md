@@ -25,9 +25,9 @@ I love building clean and functional web applications and improving my skills ev
 
 ---
 
-## 📊 GitHub Streak  
-<!--![Kajal Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalsaini0017&show_icons=true&theme=dark)-->
-![Kajal Saini's GitHub Streak](https://streak-stats.demolab.com?user=kajalsaini0017)
+## 📊 GitHub Stats  
+![Kajal Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalsaini0017&show_icons=true&theme=dark)
+<!--![Kajal Saini's GitHub Streak](https://streak-stats.demolab.com?user=kajalsaini0017)-->
 
 ---
 
