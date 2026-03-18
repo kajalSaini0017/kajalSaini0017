@@ -9,6 +9,7 @@ I love building clean and functional web applications and improving my skills ev
 ## 👩‍💻 About Me  
 
 Frontend Developer skilled in HTML, CSS, JavaScript, and React. Experienced in building responsive web applications, managing state with Redux Toolkit, and handling APIs using TanStack Query. Passionate about creating clean UI and improving user experience.
+
 ---
 
 
@@ -51,17 +52,9 @@ Frontend Developer skilled in HTML, CSS, JavaScript, and React. Experienced in b
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 LinkedIn: ![LinkedIn](https://www.linkedin.com/in/kajal-saini-078089262)  
-- 📧 Email: ![Email Me](kajalsainibsa@gmail.com)
-
----
-
 ## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajal-saini-078089262)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kajalsainibsa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajalsainibsa@gmail.com)
 
 ---
 
